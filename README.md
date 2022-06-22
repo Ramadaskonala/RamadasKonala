@@ -4,12 +4,12 @@ Here are some ideas to get you started:
 
 <p> <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="no" width="400px" height="350px"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthpalukuri&label=Profile%20views&color=0e75b6&style=flat" alt="revanthpalukuri" /> </p>
-- 🧑‍🎓 I'm currently pursuing my BTech CSE in NIT Silchar
-- 👀 I'm interested in Full Stack Web Development </p>
-- 🌱 I’m currently learning Java Script </p>
-- 👯 I’m looking to collaborate on projects </p>
-- 💬 Ask me about C++,DSA </p>
-- 📫 How to reach me konalarakesh9547@gmail.com </p>
+<p> - 🧑‍🎓 I'm currently pursuing my BTech CSE in NIT Silchar </p>
+<p> - 👀 I'm interested in Full Stack Web Development </p>
+<p> - 🌱 I’m currently learning Java Script </p>
+<p> - 👯 I’m looking to collaborate on projects </p>
+<p> - 💬 Ask me about C++,DSA </p>
+<p> - 📫 How to reach me konalarakesh9547@gmail.com </p>
 
  
 <h3 align="left">Connect with me:</h3>
