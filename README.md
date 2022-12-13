@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <p> - 🌱 I’m currently learning Java Script </p>
 <p> - 👯 I’m looking to collaborate on projects </p>
 <p> - 💬 Ask me about C++,DSA </p>
-<p> - 📫 How to reach me konalarakesh9547@gmail.com </p>
+<p> - 📫 How to reach me <a href="mailto:konalarakesh9547@gmail.com">konalarakesh9547@gmail.com </a></p>
 
  
 <h3 align="left">Connect with me:</h3>
